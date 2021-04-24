@@ -1,1 +1,3 @@
-<h1> Hello World! </h1>
+Learning how to do GitHub.io Website.
+Keep it clean and simple.
+
